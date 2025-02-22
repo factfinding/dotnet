@@ -43,6 +43,7 @@ public partial class ProcessHelper : IProcessHelper
             (Architecture)5 => PlatformArchitecture.S390x,
             (Architecture)8 => PlatformArchitecture.Ppc64le,
             (Architecture)9 => PlatformArchitecture.RiscV64,
+            (Architecture)6 => PlatformArchitecture.LoongArch64,
             _ => throw new NotSupportedException(),
         };
     }

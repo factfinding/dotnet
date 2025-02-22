@@ -122,3 +122,4 @@ static Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformAssembly
 virtual Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.Interfaces.AssemblyResolveEventHandler.Invoke(object? sender, Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.Interfaces.AssemblyResolveEventArgs? args) -> System.Reflection.Assembly?
 virtual Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformAssemblyResolver.Dispose(bool disposing) -> void
 Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformArchitecture.RiscV64 = 6 -> Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformArchitecture
+Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformArchitecture.LoongArch64 = 7 -> Microsoft.VisualStudio.TestPlatform.PlatformAbstractions.PlatformArchitecture
